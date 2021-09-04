@@ -1,1 +1,1 @@
-# Simple program that fetches json data from an Earthquakes API and than parses it to a String output on a console
+# Simple program that fetches json data from an Earthquakes API and than outputs useful information on a console
